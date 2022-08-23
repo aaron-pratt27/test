@@ -3,7 +3,7 @@ import psycopg2
 # pure-lowlands-38878
 
 # Aaron Pratt 8/22/22 
-# cloud 
+# cloud data base
 
 
 
